@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_price">Price:</string>
+    <string name="service_title">Details</string>
+    <string name="picture_massage">picture_massage</string>
+    <string name="title_duration">Duration:</string>
+    <string name="description_price">RM</string>
+    <string name="description_duration">Minutes</string>
+    <string name="title_ideal_for">Ideal For:</string>
+    <string name="title_benefits">Benefits:</string>
+    <string name="service_swedish_massage">Swedish Massage</string>
+    <string name="service_hot_stone_massage">Hot Stone Massage</string>
+    <string name="service_aromatherapy_massage">Aromatherapy Massage</string>
+    <string name="service_deep_tissue_massage">Deep Tissue Massage</string>
+    <string name="service_reflexology_massage">Reflexology</string>
+    <string name="price_swedish_massage">RM60</string>
+    <string name="price_hot_stone_massage">RM60</string>
+    <string name="price_aromatherapy_massage">RM60</string>
+    <string name="price_deep_tissue_massage">RM60</string>
+    <string name="price_reflexology_massage">RM60</string>
+    <string name="duration_swedish_massage">60-90 minutes</string>
+    <string name="duration_hot_stone_massage">60-90 minutes</string>
+    <string name="duration_aromatherapy_massage">60-90 minutes</string>
+    <string name="duration_deep_tissue_massage">60-90 minutes</string>
+    <string name="duration_reflexology_massage">30-60 minutes</string>
+    <string name="ideal_for_swedish_massage">• New to massage\n• Have a lot of stress\n• Are sensitive to touch</string>
+    <string name="ideal_for_hot_stone_massage">• Stressful\n• Have chronic pain</string>
+    <string name="ideal_for_deep_tissue_massage">• A lot of muscle tension\n• Chronic pain\n• Anxiety</string>
+    <string name="ideal_for_aromatherapy_massage">• Feeling down\n• Stressful\n• Depressed</string>
+    <string name="ideal_for_reflexology_massage">• Gets tired easily\n• Aren\'t comfortable being touch on body</string>
+    <string name="benefit_swedish_massage">• Releases muscle knot\n• Good choice for full relaxation</string>
+    <string name="benefit_hot_stone_massage">• Relieve stress\n• Alleviate pain\n • Improve blood flow</string>
+    <string name="benefit_deep_tissue_massage">• Releases muscle knot\n• Good choice for full relaxation</string>
+    <string name="benefit_aromatherapy_massage">• Boost mood\n• Reduce pain, anxiety and symptoms of depression\n• Relieve muscle tension</string>
+    <string name="benefit_reflexology_massage">• Restore energy level\n• Good choice for full relaxation</string>
+    <string name="button_book">Book Now!</string>
+</resources>
